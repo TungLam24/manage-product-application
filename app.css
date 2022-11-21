@@ -1,0 +1,15 @@
+.button {
+    color: white;
+    background-color: green;
+    margin-right: 50px;
+}
+.name {
+    border: 0;
+    background-color: white;
+}
+td {
+    width: 150px;
+}
+table {
+    width: 40%;
+}
